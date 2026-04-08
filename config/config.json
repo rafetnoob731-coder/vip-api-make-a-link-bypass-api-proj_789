@@ -1,0 +1,10 @@
+{
+  "project_name": "Make a link bypass api",
+  "version": "1.0.0",
+  "framework": "flask",
+  "authentication": false,
+  "created_by": "VIP API BUILDER",
+  "authority": "VIP GOD",
+  "ai_provider": "OPENROUTER",
+  "ai_level": 6
+}
